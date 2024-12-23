@@ -1,0 +1,1 @@
+This repository contains a simple Javascript function with a common error and its solution. The original `add.js` lacks input validation, making it vulnerable to non-numeric inputs. The improved version, `addSolution.js`, addresses this issue.
